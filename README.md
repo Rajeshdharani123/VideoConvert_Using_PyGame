@@ -24,8 +24,8 @@ Edit the video_path variable in the script to point to the path of the video you
   
 ### Run the script:
 
+    python cartoonize_video.py
 
-  python cartoonize_video.py
 This will open a Pygame window displaying the cartoonized video.
 
 ### Functions
