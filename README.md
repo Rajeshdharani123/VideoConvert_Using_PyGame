@@ -4,10 +4,10 @@ This project applies a cartoon effect to each frame of a video using OpenCV and 
 
 ## Requirements
 
-   - Python 3.x
-   - OpenCV
-   - Pygame
-   - NumPy
+- Python 3.x
+- OpenCV
+- Pygame
+- NumPy
 
 You can install the required packages using pip:
 
