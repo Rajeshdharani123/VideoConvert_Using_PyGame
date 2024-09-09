@@ -29,9 +29,10 @@ Edit the video_path variable in the script to point to the path of the video you
 This will open a Pygame window displaying the cartoonized video.
 
 ## Functions
-  cartoonize_image(image)
-Applies a cartoon effect to a single frame of the video. This function:
-
+  
+    cartoonize_image(image) 
+Applies a cartoon effect to a single frame of the video. 
+This function:
 Converts the image to grayscale.
 Applies median blur to reduce noise.
 Detects edges using adaptive thresholding.
