@@ -38,6 +38,7 @@ Applies median blur to reduce noise.
 Detects edges using adaptive thresholding.
 Reduces the number of colors using bilateral filtering.
 Combines the edge mask with the color-filtered image.
+
      display_video(video_path)
   
 Opens the video file, applies the cartoon effect to each frame, and displays it using Pygame.
