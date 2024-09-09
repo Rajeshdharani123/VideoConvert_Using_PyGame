@@ -19,9 +19,10 @@ Clone the repository or download the script.
 
 Edit the video_path variable in the script to point to the path of the video you want to cartoonize.
 
-python
-Copy code
-  video_path = r"C:\Users\4a Freeboard\Videos\AnyDesk\demovedio.mp4"  # Replace with your video path
+video_path = r"C:\Users\4a Freeboard\Videos\AnyDesk\demovedio.mp4"  # Replace with your video path
+  
+
+
   
 ### Run the script:
 
